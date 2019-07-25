@@ -2,7 +2,6 @@
 
 layout: col-sidebar
 title: OWASP ZAP
-permalink: /zap
 site_side: true
 
 ---
