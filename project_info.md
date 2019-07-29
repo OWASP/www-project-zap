@@ -1,5 +1,6 @@
-### Dynamic Project Information
+### Project Information
 * [Flagship Project](#)
+* [Tool Project](#)
 * [Version 2.8.0](https://github.com/zaproxy/zaproxy/wiki/Downloads)
 * [Builder](#)
 * [Breaker](#)
