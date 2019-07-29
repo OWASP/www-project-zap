@@ -1,6 +1,6 @@
 ### Dynamic Project Information
 * [Flagship Project](#)
-* [Version 2.3.4 Build 2019.07](#)
+* [Version 2.8.0](https://github.com/zaproxy/zaproxy/wiki/Downloads)
 * [Builder](#)
 * [Breaker](#)
 
