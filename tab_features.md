@@ -20,3 +20,7 @@ tab: true
 * Community based, with involvement actively encouraged
 * Under active development by an international team of volunteers
 ZAP is a fork of the well regarded [Paros Proxy](http://www.parosproxy.org/).
+
+{{ page.path }}
+{{ page.url }}
+{{ page.dir }}
