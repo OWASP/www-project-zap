@@ -3,7 +3,7 @@ title: News
 layout:  null
 tab: true
 order: 3
-tags: www-project-zap
+tags: zap
 ---
 
 ## Latest News:

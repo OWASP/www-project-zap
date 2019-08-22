@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP ZAP
 site_side: true
+tags: zap
 
 ---
 <!-- rebuild 27 -->
