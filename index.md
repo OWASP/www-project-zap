@@ -25,7 +25,3 @@ Interested in a ZAP talk or training event? See the talks tab. Not one near you?
   Testing another tab. This one is supposed to be for feature. Some more text.
 </div> -->
 
-<div class="github-buttons">
-  <iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-  <iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-</div>
