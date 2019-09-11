@@ -20,11 +20,4 @@ For more videos see the links on the wiki videos page.
   
 Interested in a ZAP talk or training event? See the talks tab. Not one near you? Contact a Zap Evangelist to arrange one!
 
-<!-- <div id="screenshots" class="page-body tab remove-el" role="tabpanel" aria-labelledby="screenshots-link" tabindex="0">
-  Testing another tab. This one is supposed to be for screenshots.
-</div>
-
-<div id="features" class="page-body tab remove-el" role="tabpanel" aria-labelledby="features-link" tabindex="0">
-  Testing another tab. This one is supposed to be for feature. Some more text.
-</div> -->
 
