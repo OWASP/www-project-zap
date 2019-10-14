@@ -1,4 +1,4 @@
 ### Leaders
-* [Simon Bennetts](mailto://psiinon@gmail.com)
-* [Ricardo Pereira](mailto://ricardo.pereira@owasp.org)
-* [Rick Mitchell](mailto://rick.mitchell@owasp.org)
+* [Simon Bennetts (psiinon)](mailto:psiinon@gmail.com)
+* [Ricardo Pereira (thc202)](mailto:thc202@gmail.com)
+* [Rick Mitchell (kingthorin)](mailto:kingthorin+owaspzap@gmail.com)
