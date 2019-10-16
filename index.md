@@ -6,6 +6,7 @@ site_side: true
 tags: zap
 project: true
 level: 4
+type: tool
 
 ---
 <!-- rebuild 40 -->
