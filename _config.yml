@@ -1,5 +1,9 @@
 remote_theme: "owasp/www--site-theme"
 
+#override default star and watch buttons
+github.code_user: zaproxy
+github.code_repo: zaproxy
+
 # core files/folders to exclude
 exclude:
  - README.md
