@@ -24,4 +24,4 @@ For more videos see the links on the wiki videos page.
   
 Interested in a ZAP talk or training event? Not one near you? Contact a [Zap Evangelist](https://github.com/zaproxy/zaproxy/wiki/ZapEvangelists) to arrange one!
 
-
+For more information about [ZAPping the OWASP Top 10](zappingthetop10) check [here](zappingthetop10).
