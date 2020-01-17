@@ -64,4 +64,4 @@ The component links take you to the relevant places in an online version of the 
 
 &#42; The stared add-ons are not included by default in the full ZAP release but can be downloaded from the ZAP Marketplace via the ‘Manage add-ons’ button on the ZAP main toolbar.
 
-![Zap Toolbar - Marketplace Button](https://github.com/zaproxy/zap-extensions/wiki/images/zap-screenshot-browse-addons.png)
+![ZAP Toolbar - Marketplace Button](https://github.com/zaproxy/zap-extensions/wiki/images/zap-screenshot-browse-addons.png)
