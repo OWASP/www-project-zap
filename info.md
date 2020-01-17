@@ -9,7 +9,7 @@
 
 ### Downloads
 
-* [Download OWASP Zap!](https://www.zaproxy.org/download/)
+* [Download OWASP ZAP!](https://www.zaproxy.org/download/)
 
 ### Questionnaire
 
