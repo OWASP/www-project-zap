@@ -1,11 +1,11 @@
 ### Project Classification
 
-![Flagship Project](assets/images/common/owasp_level_flagship.svg)
+* <i class="fas fa-flag" style="font-size: 1.3em; color:#2ADA08;"></i><span style="font-size: 1.3em;">Flagship Project</span>
 
-![Breakers](assets/images/common/owasp_breakers.svg)
-![Builders](assets/images/common/owasp_builders.svg)
+* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
 
-![Tool Project](assets/images/common/owasp_tool_project.svg)
+* <i class="fas fa-tools" style="color:#233e81;"></i> Tool
 
 ### Downloads
 
