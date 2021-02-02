@@ -12,7 +12,7 @@
 
 ### Questionnaire
 
-* Please help us to make ZAP even better for you by answering the [ZAP User Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSeJDCJg0M_H0sC666yx4PZwfyBTwnh0HwzTUKdYB7zmSBE0Nw/viewform)
+* Please help us to make ZAP even better for you by answering the [ZAP Community Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSfkLr91IKNnuaErBqD4X0dohEsJ6V9hFZOiPoTTbw6Ld4SJKQ/viewform)
 
 ### Code Repositories
 
