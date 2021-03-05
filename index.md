@@ -13,3 +13,5 @@ pitch: The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular fre
 For more details about ZAP see the main ZAP website at [zaproxy.org](https://www.zaproxy.org) and for ZAPCon visit [zapcon.io](https://zapcon.io)
 [![ZAPCon](assets/images/zapcon-banner.png)](https://zapcon.io)
 [![ZAP Website](assets/images/zap-website.png)](https://www.zaproxy.org)
+
+{% include zap_twitter_feeds.html %}
