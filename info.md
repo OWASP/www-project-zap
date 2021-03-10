@@ -14,6 +14,10 @@
 
 * Please help us to make ZAP even better for you by answering the [ZAP Community Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSfkLr91IKNnuaErBqD4X0dohEsJ6V9hFZOiPoTTbw6Ld4SJKQ/viewform)
 
+### Zapcon
+
+For info on Zap's user conference visit [zapcon.io](https://zapcon.io).
+
 ### Code Repositories
 
 * [zaproxy](https://github.com/zaproxy/zaproxy/)
