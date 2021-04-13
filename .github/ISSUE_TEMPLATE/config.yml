@@ -1,0 +1,20 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ZAP or ZAP Add-on Issues
+    url: https://github.com/zaproxy/zaproxyissues
+    about: Issues about ZAP or ZAP Add-ons should be opened in the primary ZAP repository.
+  - name: ZAP User Group
+    url: https://groups.google.com/group/zaproxy-users
+    about: Please ask and answer questions about using ZAP here - do not raise issues for questions.
+  - name: ZAP Website
+    url: https://www.zaproxy.org
+    about: ZAP's primary website.
+  - name: Donate to ZAP
+    url: https://owasp.org/donate/?reponame=www-project-zap&title=OWASP+ZAP
+    about: Donate to help support ZAP's continued development.
+  - name: ZAP Developer Group
+    url: https://groups.google.com/group/zaproxy-develop
+    about: Please ask and answer questions about ZAP internals here.
+  - name: ZAP Security Bug Bounty Program
+    url: https://bugcrowd.com/owaspzap
+    about: Please report security vulnerabilities here.
