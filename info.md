@@ -26,9 +26,9 @@ For info on Zap's user conference visit [zapcon.io](https://zapcon.io).
 
 ### Change Logs
 
-* [zaproxy](https://github.com/zaproxy/zaproxy/commits/develop)
-* [zap-extensions](https://github.com/zaproxy/zap-extensions/commits/master)
-* [zap-hud](https://github.com/zaproxy/zap-hud/commits/develop)
+* [zaproxy](https://github.com/zaproxy/zaproxy/commits/main)
+* [zap-extensions](https://github.com/zaproxy/zap-extensions/commits/main)
+* [zap-hud](https://github.com/zaproxy/zap-hud/commits/main)
 
 ### Licensing
 
