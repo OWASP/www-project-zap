@@ -10,7 +10,8 @@ type: tool
 pitch: The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by a dedicated international team of volunteers. Great for pentesters, devs, QA, and CI/CD integration. 
 ---
 
-For more details about ZAP see the main ZAP website at [zaproxy.org](https://www.zaproxy.org).
-[![ZAP Website](assets/images/zap-website.png)](https://www.zaproxy.org)
+ZAP is no longer an OWASP project.
+
+For more details see [this blog post](https://www.zaproxy.org/blog/2023-08-01-zap-is-joining-the-software-security-project/)
 
 {% include zap_twitter_feeds.html %}
